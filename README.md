@@ -16,16 +16,16 @@
 ## 🛠 Технологии и инструменты
 
 **Языки и СУБД**  
-`Python` (Pandas, NumPy, Scikit-learn) · `SQL` (PostgreSQL) · `R` · `Jupyter Notebook`
+`Python` · `SQL` · `R` · `Jupyter Notebook` · `1С`
 
 **BI и визуализация**  
-`Tableau` · `Power BI` · `Excel` (сводные, Power Query) · `Google Sheets`
+`Tableau` · `Power BI` · `Excel` · `Google Sheets`
 
 **Методологии и аналитика**  
 A/B-тестирование · EDA · Data Mining · Разработка KPI · Экономический анализ · BPMN / UML
 
 **Инструменты и интеграции**  
-`API` · `JSON` · `1С` · `Miro` · `QGIS` / `2GIS`
+`API` · `JSON` · `Miro` · `QGIS` / `2GIS`
 
 ---
 
