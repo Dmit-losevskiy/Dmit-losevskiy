@@ -15,17 +15,14 @@
 
 ## 🛠 Технологии и инструменты
 
-**Языки и СУБД**  
-`Python` · `SQL` · `R` · `Jupyter Notebook` · `1С`
+**Языки и инструменты**  
+`Python` · `SQL` · `R` · `Jupyter Notebook` · `API` · `JSON`
 
 **BI и визуализация**  
 `Tableau` · `Power BI` · `Excel` · `Google Sheets`
 
 **Методологии и аналитика**  
 A/B-тестирование · EDA · Data Mining · Разработка KPI · Экономический анализ · BPMN / UML
-
-**Инструменты и интеграции**  
-`API` · `JSON` · `Miro` · `QGIS` / `2GIS`
 
 ---
 
