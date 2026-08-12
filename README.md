@@ -37,9 +37,9 @@ A/B-тестирование · EDA · Data Mining · Разработка KPI �
 
 ## 📫 Где меня найти
 
-- **Telegram:** [@losevskiyD](https://t.me/losevskiyD)
+- **Telegram:** [@losevskiyd](https://t.me/losevskiyd)
 - **Email:** losevskiy2000@mail.ru
-- **Вконтакте:** [losevskiy2000@mail.ru](https://vk.ru/dlosevsky)
+- **Вконтакте:** [dlosevsky](https://vk.ru/dlosevsky)
 
 ---
 
