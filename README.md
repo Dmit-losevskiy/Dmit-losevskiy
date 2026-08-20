@@ -20,7 +20,7 @@
 `Tableau` · `Power BI` · `Excel` · `Google Sheets`
 
 **Методологии и аналитика**  
-A/B-тестирование · EDA · Data Mining · Разработка KPI · Экономический анализ · BPMN / UML
+A/B-тестирование · EDA · Data Mining · KPI · Экономический анализ · BPMN / UML
 
 ---
 
