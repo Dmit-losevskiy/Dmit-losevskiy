@@ -13,14 +13,7 @@
 
 ## 🛠 Стек
 
-**Языки и инструменты**  
-`Python` · `SQL` · `R` · `Jupyter Notebook` · `API` · `JSON`
-
-**BI и визуализация**  
-`Tableau` · `Power BI` · `Excel` · `Google Sheets`
-
-**Методологии и аналитика**  
-A/B-тестирование · EDA · Data Mining · KPI · Экономический анализ · BPMN / UML
+`Python` · `SQL` · `R` · `Jupyter Notebook` · `API` · `JSON` · `Tableau` · `Power BI` · `Excel` · `Google Sheets` · A/B-тестирование · EDA · Data Mining · KPI · Экономический анализ · BPMN / UML
 
 ---
 
